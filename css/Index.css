@@ -45,7 +45,7 @@ slider h {
     width: 100%;
     text-align: center;
     display: inline-block;
-    margin-top: 320px;
+    margin-top: 420px;
     color: black;
 }
 
@@ -54,7 +54,7 @@ slider a {
     width: 100%;
     text-align: center;
     display: inline-block;
-    margin-bottom: 300px;
+    margin-bottom: 160px;
     color: black; 
 }
 
@@ -68,14 +68,13 @@ slide:nth-child(1){
 }
 slide:nth-child(2){
     animation-delay: 1s;
-    background-image: url(../recipes/PineappleRiceCake/PineappleRiceCake4x3.jpg);
+    background-image: url(../recipes/NestleChocolateChipCookies/1478849022258.jpg);
     background-size: cover;
     background-position: center;
-    
 }
 slide:nth-child(3){
     animation-delay: 4s;
-    background-image: url(../recipes/PineappleRiceCake/DSC_0130.JPG);
+    background-image: url(../recipes/PineappleRiceCake/PineappleRiceCake4x3.jpg);
     background-size: cover;
     background-position: center;
     
