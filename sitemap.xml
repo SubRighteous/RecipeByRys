@@ -7,7 +7,6 @@
       xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
 <url>
   <loc>https://subrighteous.github.io/RecipeByRys/</loc>
   <lastmod>2019-01-20</lastmod>
@@ -19,12 +18,10 @@
   <priority>0.90</priority>
 </url>
 <url>
-  <loc>https://subrighteous.github.io/RecipeByRys/recipes/recipes_chocolate_chip_cookies.htm</loc>
   <lastmod>2019-01-20</lastmod>
   <priority>0.7</priority>
 </url>
 <url>
-  <loc>https://subrighteous.github.io/RecipeByRys/recipes/PineappleRiceCake/pineapple_Rice_cake</loc>
   <lastmod>2019-01-20</lastmod>
   <priority>0.8</priority>
     
